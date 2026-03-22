@@ -37,10 +37,10 @@ Projekt cyfrowego stopera w języku VHDL, przystosowany do pracy z zegarem syste
 
 ## 📂 Project Structure / Struktura Projektu
 
-* `src/` - Source files / Pliki źródłowe (`STOPER.vhd`)
-* `sim/` - Testbench files / Pliki symulacji (`STOPER_testbench.vhd`)
+* `src/` - [Source files / Pliki źródłowe](src/STOPER.vhd)
+* `sim/` - [Testbench files / Pliki symulacji](sim/STOPER_testbench.vhd)
 * `docs/` - Technical documentation / Sprawozdanie (PDF)
-* `output/` - Simulation logs / Wyniki symulacji (`stoper_results.txt`)
+* `output/` - [Simulation logs / Wyniki symulacji](output/stoper_results.txt)
 
 ---
 **Author:** Kacper Sosnowski
