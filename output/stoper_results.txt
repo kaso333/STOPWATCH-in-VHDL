@@ -1,0 +1,25 @@
+=== Test wszystkich funkcji stopera ===
+Czas: 0:00 [ STOPPED ] Zapisane czasy: 000
+Uruchomiono stoper
+Czas: 0:01 [ RUNNING ] Zapisane czasy: 000
+Czas: 0:02 [ RUNNING ] Zapisane czasy: 000
+>>> Zapisano czas: 0:02
+Zapisano pierwszy czas
+Czas: 0:03 [ RUNNING ] Zapisane czasy: 001
+Stoper wstrzymany
+Stoper wznowiony
+Czas: 0:04 [ RUNNING ] Zapisane czasy: 001
+Czas: 0:05 [ RUNNING ] Zapisane czasy: 001
+>>> Zapisano czas: 0:05
+Zapisano drugi czas
+Czas: 0:06 [ RUNNING ] Zapisane czasy: 011
+>>> Zapisano czas: 0:06
+Zapisano trzeci czas
+Czas: 0:07 [ RUNNING ] Zapisane czasy: 111
+Wykonano reset stopera
+Czas: 0:00 [ STOPPED ] Zapisane czasy: 111
+=== Koniec testu stopera ===
+=== ZAPISANE CZASY ===
+Czas: 0:02 [ STOPPED ] Zapisane czasy: 111
+Czas: 0:05 [ STOPPED ] Zapisane czasy: 111
+Czas: 0:06 [ STOPPED ] Zapisane czasy: 111
